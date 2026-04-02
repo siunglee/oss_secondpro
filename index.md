@@ -47,7 +47,7 @@
 ### 자격증 
 - 정보처리 기사(2026)
 - 컴퓨터활용능력 1급  
-[Q-net] (https://www.q-net.or.kr)
+[Q-net](https://www.q-net.or.kr)
 
 ### 수상 경력
 

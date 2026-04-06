@@ -4,7 +4,7 @@
 
 ## 이름 : 이시웅
 
-![이시웅](/image/me.jpg)
+![이시웅](image/me.jpg)
 
 
 
